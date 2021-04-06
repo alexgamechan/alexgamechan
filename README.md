@@ -1,6 +1,12 @@
-## hello everyone!
+## hello everyone! ![my website](https://alexgamechan.com)
 
-### my website - https://alexgamechan.com
+### about me
+
+## i know C++, C#, Python, PHP, HTML CSS, JS.
+
+
+
+
 <!--
 **alexgamechan/alexgamechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
