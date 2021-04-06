@@ -4,6 +4,7 @@
 
 ## i know C++, C#, Python, PHP, HTML CSS, JS.
 
+### ![my instagram](https://instagram.com/alexgamechan), ![my telegram](https://t.me/alexgamechan)
 
 
 
