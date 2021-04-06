@@ -1,4 +1,6 @@
-### привет, рашка
+### hello everyone!
+
+### my website - https://alexgamechan.com
 <!--
 **alexgamechan/alexgamechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
